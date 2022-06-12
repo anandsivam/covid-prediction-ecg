@@ -1,4 +1,4 @@
-# aml2404
+# aml2404 - Project - Covid19 prediction using ECG images
 Term Project repository for AML 2404 Lab
 
 
